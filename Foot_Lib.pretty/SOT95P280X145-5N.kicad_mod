@@ -25,7 +25,7 @@
 			)
 		)
 	)
-	(property "Footprint" ""
+	(property "Footprint" "SOT95P280X145-5N"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -234,7 +234,7 @@
 		(solder_mask_margin 0.102)
 		(uuid "5ffaa2fd-b74b-458a-a651-6d8f90f99e4b")
 	)
-	(model "C:/Users/dbadjei/OneDrive - Iowa State University/Research/Testing/Kicad Tutorial/Libraries/LP5907MFX_1_8_NOPB/LP5907MFX-1.8_NOPB.step"
+	(model "../STEP_FILES/LP5907MFX-1.8_NOPB.step"
 		(offset
 			(xyz 0 0 0)
 		)

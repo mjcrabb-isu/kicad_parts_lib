@@ -184,9 +184,9 @@
 		(solder_mask_margin 0.102)
 		(uuid "6b457efe-564c-4a7a-803b-d8532776f9db")
 	)
-	(model "C:/Users/mjcra/School_Files/Fall 2024/CreativeComponent/Temp_Stuff/DAC_pcb_rev2/STEP_FILES/61300211121.step"
+	(model "../STEP_FILES/61300211121.step"
 		(offset
-			(xyz 0 0 1.3)
+			(xyz 0 0 1.25)
 		)
 		(scale
 			(xyz 1 1 1)
