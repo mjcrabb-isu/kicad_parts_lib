@@ -5,19 +5,20 @@
 	(layer "F.Cu")
 	(descr "<b>CAPACITOR</b>")
 	(property "Reference" "REF**"
-		(at -0.235808 -1.239253 0)
+		(at 0.25 -1.75 0)
 		(layer "F.SilkS")
 		(uuid "2bb1153c-31e9-4e5b-aa72-5a4d003f7e3f")
 		(effects
 			(font
-				(size 0.474067 0.474067)
-				(thickness 0.118517)
+				(size 1.143 1.143)
+				(thickness 0.254)
 			)
 		)
 	)
 	(property "Value" "CAPC1608X90"
 		(at 1.567319 1.206787 0)
 		(layer "F.Fab")
+		(hide yes)
 		(uuid "974b91f2-9797-4946-9045-99199d5d783a")
 		(effects
 			(font

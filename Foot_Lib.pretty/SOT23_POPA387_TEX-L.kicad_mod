@@ -11,8 +11,8 @@
 		(uuid "a64fee57-4a67-4188-8446-54286cfa16ca")
 		(effects
 			(font
-				(size 1 1)
-				(thickness 0.15)
+				(size 1.143 1.143)
+				(thickness 0.254)
 			)
 		)
 	)
@@ -20,6 +20,7 @@
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
+		(hide yes)
 		(uuid "77be5a73-d071-4568-8ddc-19411d6fa506")
 		(effects
 			(font

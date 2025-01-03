@@ -1,0 +1,256 @@
+(footprint "DIP781W56P254L950H533Q8N"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "8-Lead Plastic Dual In-Line (P) - 300 mil Body [PDIP]")
+	(tags "Integrated Circuit")
+	(property "Reference" "U**"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "58a7c370-eaa2-4c94-bb98-2144c0072dd5")
+		(effects
+			(font
+				(size 1.143 1.143)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "DIP781W56P254L950H533Q8N"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "eee49680-a12c-487a-b5af-f511655df39e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Footprint" "DIP781W56P254L950H533Q8N"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e4dd07c6-f266-44d9-8e0f-57a1e410a0f8")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b2cc135b-4e71-45cd-a12c-064a9a092568")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fe0c7e2f-19fd-4b15-b0ad-77255563ef4b")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr through_hole exclude_from_pos_files)
+	(fp_line
+		(start -4.485 -5.08)
+		(end 3.556 -5.08)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9e15418c-b955-4459-9dc4-6bdb040e7502")
+	)
+	(fp_line
+		(start -3.556 5.08)
+		(end 3.556 5.08)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7b9812cd-1012-4145-90e6-abd8287cdc5e")
+	)
+	(fp_line
+		(start -4.957 -5.33)
+		(end 4.957 -5.33)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "41cded35-e1c2-4e28-806f-0248bd12d2f1")
+	)
+	(fp_line
+		(start -4.957 5.33)
+		(end -4.957 -5.33)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "cf4d4cfa-559f-4e1c-bd37-7c8f4423df3a")
+	)
+	(fp_line
+		(start -3.556 -5.08)
+		(end 3.556 -5.08)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "b41187b5-1abb-45b1-99ea-dff1376b2dd8")
+	)
+	(fp_line
+		(start -3.556 -3.81)
+		(end -2.286 -5.08)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "a9ebf43f-750f-492a-a8d1-0b6a15249220")
+	)
+	(fp_line
+		(start -3.556 5.08)
+		(end -3.556 -5.08)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "97bbe81a-87e7-4fbb-862d-47e6a20eba59")
+	)
+	(fp_line
+		(start 3.556 -5.08)
+		(end 3.556 5.08)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "6b356978-d76d-4f8b-a2b6-3d4b85ca3244")
+	)
+	(fp_line
+		(start 3.556 5.08)
+		(end -3.556 5.08)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "31f37fb0-b399-4643-95b5-7b4bd65ca5d2")
+	)
+	(fp_line
+		(start 4.957 -5.33)
+		(end 4.957 5.33)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "7fbc937c-cf89-4dfb-985a-09675bb0439a")
+	)
+	(fp_line
+		(start 4.957 5.33)
+		(end -4.957 5.33)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "d25c03bd-96d1-4ffd-b274-912af4476ba1")
+	)
+	(pad "1" thru_hole rect
+		(at -3.905 -3.81 90)
+		(size 1.159 1.159)
+		(drill 0.759)
+		(layers "*.Cu" "*.Mask" "F.SilkS")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 45)
+		(uuid "b079f738-a91f-4465-beb2-218689ca14e0")
+	)
+	(pad "2" thru_hole circle
+		(at -3.905 -1.27 90)
+		(size 1.159 1.159)
+		(drill 0.759)
+		(layers "*.Cu" "*.Mask" "F.SilkS")
+		(remove_unused_layers no)
+		(uuid "5442a0f2-b148-40ea-8676-76bd18b252fc")
+	)
+	(pad "3" thru_hole circle
+		(at -3.905 1.27 90)
+		(size 1.159 1.159)
+		(drill 0.759)
+		(layers "*.Cu" "*.Mask" "F.SilkS")
+		(remove_unused_layers no)
+		(uuid "aadceae3-f175-40ef-90ee-ff77618ed16f")
+	)
+	(pad "4" thru_hole circle
+		(at -3.905 3.81 90)
+		(size 1.159 1.159)
+		(drill 0.759)
+		(layers "*.Cu" "*.Mask" "F.SilkS")
+		(remove_unused_layers no)
+		(uuid "f4c25ec4-8586-406a-bf7f-e4f4d0af4950")
+	)
+	(pad "5" thru_hole circle
+		(at 3.905 3.81 90)
+		(size 1.159 1.159)
+		(drill 0.759)
+		(layers "*.Cu" "*.Mask" "F.SilkS")
+		(remove_unused_layers no)
+		(uuid "f0bd3615-2d85-4b51-908a-021c90dc38bf")
+	)
+	(pad "6" thru_hole circle
+		(at 3.905 1.27 90)
+		(size 1.159 1.159)
+		(drill 0.759)
+		(layers "*.Cu" "*.Mask" "F.SilkS")
+		(remove_unused_layers no)
+		(uuid "04cd9248-37dc-4961-ac51-b839c91e5a97")
+	)
+	(pad "7" thru_hole circle
+		(at 3.905 -1.27 90)
+		(size 1.159 1.159)
+		(drill 0.759)
+		(layers "*.Cu" "*.Mask" "F.SilkS")
+		(remove_unused_layers no)
+		(uuid "e3b2ca74-20bb-40ea-bdf2-84449eef26eb")
+	)
+	(pad "8" thru_hole circle
+		(at 3.905 -3.81 90)
+		(size 1.159 1.159)
+		(drill 0.759)
+		(layers "*.Cu" "*.Mask" "F.SilkS")
+		(remove_unused_layers no)
+		(uuid "722e4178-e97d-4893-8970-a1dd3ad0bced")
+	)
+	(model "../STEP_FILES/MCP616-I_P.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
